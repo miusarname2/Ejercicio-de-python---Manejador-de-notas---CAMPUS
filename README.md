@@ -1,5 +1,5 @@
-# En Español...
-## Ejercicio-de-python - Manejador-de-notas - CAMPUS
+# Ejercicio-de-python - Manejador-de-notas - CAMPUS
+## En español
 
 ### 🧐 Contexto
 Este es un ejercicio que se nos propuso realzar en el programa de <strong>CAMPUS{Proggrammer Land}</strong> que se realizo desde el  ≈27 de marzo
@@ -38,7 +38,7 @@ Los estudiantes debian cada estudiante las materias, las materias a su vez deben
 ### Postdata:
 😅 Aun no he complido con todos lo requerimiento de la version 1.2 pero ahi voy...
 
-# English
+## English
  
  ### 🧐 Context
 This is an exercise that was proposed to us to carry out in the <strong>CAMPUS{Proggrammer Land}</strong> program that was carried out since ≈March 27

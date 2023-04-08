@@ -38,7 +38,7 @@ Los estudiantes debian cada estudiante las materias, las materias a su vez deben
 ### Postdata:
 😅 Aun no he complido con todos lo requerimiento de la version 1.2 pero ahi voy...
 
-#English
+# English
  
  ### 🧐 Context
 This is an exercise that was proposed to us to carry out in the <strong>CAMPUS{Proggrammer Land}</strong> program that was carried out since ≈March 27
